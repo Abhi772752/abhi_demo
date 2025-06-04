@@ -12,3 +12,5 @@ Branch - Electronics and Communication Engineering
 Year - 4th
 <br>
 Section - H1
+<br>
+CGPA - 7.30
