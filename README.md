@@ -14,3 +14,10 @@ Year - 4th
 Section - H1
 <br>
 CGPA - 7.30
+<br>
+Internship - 6 month internship at CSIR-CEERI Pilani
+<br>
+From - Kishanganj (Bihar)
+<br>
+12th - D.S. College katihar (75%)
+
