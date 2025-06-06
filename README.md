@@ -15,7 +15,7 @@ Section - H1
 <br>
 CGPA - 7.30
 <br>
-Internship - 6 month internship at CSIR-CEERI Pilani
+Internship - 6 month internship at CSIR-CEERI Pilani (01/05/2025 to 31/10/2025)
 <br>
 From - Kishanganj (Bihar)
 <br>
